@@ -4,11 +4,11 @@ OS Data Hub (+ other API) resources that will make your life easier.
 
 #### OS Maps API Tile Counts
 Helps users visualise the number tile requests (maps views) as they pan/zoom around a map.
-<br>https://labs.os.uk/prototyping/os-data-hub-testing/tile-count.html
+<br>https://labs.os.uk/public/os-api-resources/tile-count.html
 
 #### Transforming Geospatial Vector Data
 Discussion around transforming geospatial vector data held in OSGB36/British National Grid (EPSG:27700) format into WGS84 (EPSG:4326) for use in web applications.
-<br>https://labs.os.uk/prototyping/os-data-hub-testing/transformation
+<br>https://labs.os.uk/public/os-api-resources/transforming-geospatial-vector-data
 
 #### OS Vector Tile API Stylesheets
 Cartographic stylesheets for use with OS Vector Tile API.
@@ -16,7 +16,7 @@ Cartographic stylesheets for use with OS Vector Tile API.
 
 #### OS Vector Tile API Comparison
 Side-by-side comparison of the data OS OpenData and Premium data.
-<br>https://labs.os.uk/prototyping/os-data-hub-testing/mapbox-gl-sync-move/os-vector-tile-api.html
+<br>https://labs.os.uk/public/os-api-resources/mapbox-gl-sync-move/os-vector-tile-api.html
 
 #### OS Vector Tile API Feature Properties
 See the feature properties of clicked map elements in the OS Vector Tile API basemap and data overlays.
