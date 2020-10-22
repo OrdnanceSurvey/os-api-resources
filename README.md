@@ -2,6 +2,10 @@
 
 OS Data Hub (+ other API) resources that will make your life easier.
 
+#### OS API Branding
+Branding for users developing solutions using OS data supplied via our APIs.
+<br>https://github.com/OrdnanceSurvey/os-api-branding
+
 #### OS Maps API Tile Counts
 Helps users visualise the number tile requests (maps views) as they pan/zoom around a map.
 <br>https://labs.os.uk/public/os-api-resources/tile-count.html
