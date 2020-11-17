@@ -34,3 +34,7 @@ Demonstrates basic usage of the Data Hub OAuth 2 API to provide time limited tok
 #### OS Downloads API Scripting
 Shell script (using cURL) which can be used to request Ordnance Survey datasets from the OS Downloads API.
 <br>https://github.com/tmnnrs/os-downloads-api-curl
+
+#### OS Transform
+JavaScript helper functions for transforming between British National Grid (EPSG:27700) and WGS84 (EPSG:4326) coordinate systems - including converting to/from OSGB Grid References.
+<br>https://github.com/OrdnanceSurvey/os-transform
