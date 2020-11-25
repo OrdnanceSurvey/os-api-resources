@@ -2,6 +2,10 @@
 
 OS Data Hub (+ other API) resources that will make your life easier.
 
+#### API One Pagers
+Quick guide to our APIs.
+<br>https://ordnancesurvey.co.uk/documents/apis-on-a-page.pdf
+
 #### OS API Branding
 Branding for users developing solutions using OS data supplied via our APIs.
 <br>https://github.com/OrdnanceSurvey/os-api-branding
@@ -26,6 +30,10 @@ Side-by-side comparison of the data OS OpenData and Premium data.
 See the feature properties of clicked map elements in the OS Vector Tile API basemap and data overlays.
 <br>https://labs.os.uk/public/os-data-hub-examples/src/os-vector-tile-api/mapbox-gl-js-vts-example-query-features.php?auth=
 <br>https://labs.os.uk/public/os-data-hub-examples/src/os-vector-tile-api/mapbox-gl-js-vts-example-query-overlays.php?auth=
+
+#### Ordnance Survey Python API Wrapper (OS-PAW)
+Designed to make data from the OS Data Hub APIs readily accessible to Python developers.
+<br>https://github.com/OrdnanceSurvey/OS-PAW
 
 #### OAuth 2 API Usage
 Demonstrates basic usage of the Data Hub OAuth 2 API to provide time limited tokens for access to resources.
