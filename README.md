@@ -33,7 +33,8 @@ See the feature properties of clicked map elements in the OS Vector Tile API bas
 
 #### Ordnance Survey Python API Wrapper (OS-PAW)
 Designed to make data from the OS Data Hub APIs readily accessible to Python developers.
-<br>https://github.com/OrdnanceSurvey/OS-PAW
+<br>https://pypi.org/project/os-paw/1.0.1/
+<br>https://github.com/OrdnanceSurvey/OS-PAW (source code)
 
 #### OAuth 2 API Usage
 Demonstrates basic usage of the Data Hub OAuth 2 API to provide time limited tokens for access to resources.
