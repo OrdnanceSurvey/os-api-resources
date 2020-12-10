@@ -15,7 +15,7 @@ OS Data Hub (+ other API) resources that will make your life easier.
 |  OAuth 2 API Usage | Demonstrates basic usage of the Data Hub OAuth 2 API to provide time limited tokens for access to resources. | https://github.com/tmnnrs/os-data-hub-oauth2-api |
 | OS Downloads API Scripting | Shell script (using cURL) which can be used to request Ordnance Survey datasets from the OS Downloads API. | https://github.com/tmnnrs/os-downloads-api-curl |
 | OS Downloads API Observable Notebook | An interactive notebook to explore OS Downloads products. | https://observablehq.com/@johnx25bd/os-downloads-api | 
-| OS Vector Tile Dissector Observable Notebook | An interactive notebook to examine OS Vector Tiles including layers, attributes etc. | https://observablehq.com/@johnx25bd/os-vector-tile-api-comparison-and-dissector |
-| OS Vector Tile Explorer Observable Notebook | An interactive notebook to explore the OS Vector Tiles API and experiment with custom styling. | https://observablehq.com/@johnx25bd/os-vector-tile-api |
+| OS Vector Tile Dissector Observable Notebook | An interactive notebook to examine vector tiles from the OS Vector Tile API including layers, attributes etc. | https://observablehq.com/@johnx25bd/os-vector-tile-api-comparison-and-dissector |
+| OS Vector Tile Explorer Observable Notebook | An interactive notebook to explore the OS Vector Tile API and experiment with custom styling. | https://observablehq.com/@johnx25bd/os-vector-tile-api |
 | OS Maps API Explorer Observable Notebook | An interactive notebook to explore the raster OS Maps API. | https://observablehq.com/@johnx25bd/os-maps-api | 
 | OS Transform | JavaScript helper functions for transforming between British National Grid (EPSG:27700) and WGS84 (EPSG:4326) coordinate systems - including converting to/from OSGB Grid References. | https://github.com/OrdnanceSurvey/os-transform |
