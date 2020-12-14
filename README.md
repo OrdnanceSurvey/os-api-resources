@@ -4,8 +4,8 @@ OS Data Hub (+ other API) resources that will make your life easier.
 
 ||||
 |---|---|---|
-| API One Pagers | Quick guide to our APIs. | https://ordnancesurvey.co.uk/documents/apis-on-a-page.pdf |
-| OS API Branding | Branding for users developing solutions using OS data supplied via our APIs. | https://github.com/OrdnanceSurvey/os-api-branding |
+| <a name="os-api-one-pagers">OS API One Pagers</a> | Quick guide to our APIs. | https://ordnancesurvey.co.uk/documents/apis-on-a-page.pdf |
+| <a name="os-api-branding">OS API Branding</a> | Branding for users developing solutions using OS data supplied via our APIs. | https://github.com/OrdnanceSurvey/os-api-branding |
 | OS Maps API Tile Counts |  Helps users visualise the number tile requests (maps views) as they pan/zoom around a map. | https://labs.os.uk/public/os-api-resources/tile-count.html |
 | Transforming Geospatial Vector Data | Discussion around transforming geospatial vector data held in OSGB36/British National Grid (EPSG:27700) format into WGS84 (EPSG:4326) for use in web applications. | https://labs.os.uk/public/os-api-resources/transforming-geospatial-vector-data | 
 | OS Vector Tile API Stylesheets | Cartographic stylesheets for use with OS Vector Tile API. | https://github.com/OrdnanceSurvey/OS-Vector-Tile-API-Stylesheets |
